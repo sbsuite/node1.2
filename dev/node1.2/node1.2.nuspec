@@ -14,6 +14,6 @@
     <tags>Level 1</tags>
   </metadata>
   <files>
-    <file src="node1.2.wxs" target="wix" />
+    <file src="..\..\setup\node1.2.wxs" target="wix" />
   </files>
 </package>
