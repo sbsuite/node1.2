@@ -12,6 +12,7 @@ EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution Items", "{F76E495D-ABD7-42D7-8BD7-626F4D9F4E01}"
 	ProjectSection(SolutionItems) = preProject
 		appveyor.yml = appveyor.yml
+		setup\node1.2.wxs = setup\node1.2.wxs
 	EndProjectSection
 EndProject
 Global
