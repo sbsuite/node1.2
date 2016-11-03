@@ -21,6 +21,7 @@ nuget:
 
 build:
   publish_nuget: true
+  include_nuget_references: true
 
 deploy:
   provider: NuGet
