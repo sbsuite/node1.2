@@ -15,7 +15,7 @@ namespace node1_2
       public bool ExportTable(DataTable table)
       {
          string file = "Bla bla";
-         return _reportingServices.Report(table, file);
+         return _reportingServices.Report(file);
       }
    }
 }
