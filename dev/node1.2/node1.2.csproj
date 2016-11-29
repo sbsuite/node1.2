@@ -66,9 +66,9 @@
       <HintPath>..\..\packages\SBSuite.DevExpress.1.0.3\lib\net452\DevExpress.XtraPrinting.v15.1.dll</HintPath>
       <Private>True</Private>
     </Reference>
-    <Reference Include="node2.1, Version=1.5.29.0, Culture=neutral, processorArchitecture=MSIL">
+    <Reference Include="node2.1, Version=1.5.30.0, Culture=neutral, processorArchitecture=MSIL">
       <SpecificVersion>False</SpecificVersion>
-      <HintPath>..\..\packages\SBSuite.TestPackages.Package2.1.1.5.29\lib\net452\node2.1.dll</HintPath>
+      <HintPath>..\..\packages\SBSuite.TestPackages.Package2.1.1.5.30\lib\net452\node2.1.dll</HintPath>
       <Private>True</Private>
     </Reference>
     <Reference Include="node3.1, Version=1.2.157.0, Culture=neutral, processorArchitecture=MSIL">
